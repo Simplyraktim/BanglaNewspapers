@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Bangla Newspapers</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Top News Portals!</string>
+    <string name="slide_1_desc">The easiest way to find top News Portals from this app!</string>
+
+    <string name="slide_2_title">Breaking News</string>
+    <string name="slide_2_desc"> Featuring top stories from around the world and Breaking News!</string>
+
+    <string name="slide_3_title">HOME</string>
+    <string name="slide_3_desc">No matter which page you are browsing just click HOME button to go directly to the Main Page!</string>
+
+    <string name="slide_4_title">Swipe Down</string>
+    <string name="slide_4_desc">Simply Swipe Down to Refresh the Page!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
